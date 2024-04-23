@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 10px;
+}
+body{
+    display: block;
+    text-align: center;
+    width: 400px;
+    margin-left: 500px;
+}
+span{
+    color: crimson;
+}
+h1{
+    color: burlywood;
+}
+button a{
+    text-decoration: none;
+    font-weight: bold;
+}
+button{
+    border-radius: 8px;
+}
+button a:hover{
+    color: crimson;
+}
